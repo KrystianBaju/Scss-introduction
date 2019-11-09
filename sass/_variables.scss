@@ -1,0 +1,26 @@
+$red : ff00000;
+$blue : 00000ff;
+$white : ff00000;
+$yellow : 00000ff;
+$pink : ff00000;
+$dark : 00000ff;
+$dark-blue : ff00000;
+$silver : 00000ff;
+$purple : ff00000;
+$green : 00000ff;
+
+$colors : (
+$red,$blue,$white,$yellow,
+$pink,$dark,$dark-blue,
+$silver,$purple,$green
+);
+
+$color-map : (
+
+'red' : $red,
+'blue' : $blue,
+
+);
+
+
+

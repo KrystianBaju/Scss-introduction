@@ -1,0 +1,12 @@
+@import "mixins";
+
+p{
+
+    @include font() ;
+}
+
+h1{
+
+@include font (36px);
+
+}
